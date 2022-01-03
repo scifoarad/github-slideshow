@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+New text added by scifoarad
 Use the left arrow to go back!
